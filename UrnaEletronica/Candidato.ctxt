@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Candidato
+comment1.params=nome\ idade\ urna
+comment1.target=Candidato(java.lang.String,\ int,\ Urna)
+comment2.params=
+comment2.target=void\ mostraTotalVotos()
+comment3.params=eleitor
+comment3.target=void\ adicionaEleitor(Eleitor)
+comment4.params=
+comment4.target=void\ mostraEleitor()
+comment5.params=posicao
+comment5.target=void\ posicaoCandidato(java.lang.String)
+comment6.params=
+comment6.target=void\ recebeVoto()
+numComments=7

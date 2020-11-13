@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Urna
+comment1.params=
+comment1.target=Urna()
+comment2.params=
+comment2.target=void\ recebeVotos()
+comment3.params=
+comment3.target=void\ recebeVotosBrancosNulos()
+comment4.params=
+comment4.target=java.lang.String\ mostraVotos()
+numComments=5
